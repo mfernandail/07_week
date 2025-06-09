@@ -59,7 +59,7 @@ function clearHTML() {
 }
 
 function clearLocalstorage() {
-  const confirmMessage = confirm("Clear all entries?")
+  const confirmMessage = confirm("Remove All Entries?")
   if (confirmMessage) {
     localStorage.clear()
     renderCards()
