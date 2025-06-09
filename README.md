@@ -4,18 +4,31 @@
 
 ### This week I
 
+# Week N° 7
+
+## Step by step, line by line — becoming a Full Stack Developer in one year.
+
+# Week N° 7
+
+## Step by step, line by line — becoming a Full Stack Developer in one year.
+
 ✅ **HTML**  
-Created a form for adding notes and a dynamic container to display them on the page.
+- Semantically structured form using `input`, `textarea`, and `select`.  
+- Proper use of attributes like `required`, `placeholder`, and `maxlength`.
 
 ✅ **CSS**  
-Designed visual cards to present saved notes, using a responsive layout.
+- Responsive layout of cards using `CSS Grid`.  
+- Styled forms and cards with borders, shadows, and custom buttons.
 
 ✅ **JavaScript**  
-Learned how to use `localStorage` to save and retrieve data. Worked with JSON, dynamic functions, and arrays to add, display, and delete persistent notes.
+- Capturing form data using `FormData`.  
+- Storing entries persistently with `localStorage`.  
+- Dynamically rendering cards with saved data.  
+- Implemented a button to clear all stored data at once.  
+- Limited description input to a maximum of 80 characters.
 
 ---
 
 ## 💻 Mini project of the week:  
-**Notes App with localStorage** — A simple application that allows users to write and store notes locally in the browser. Each note is displayed as a card with a delete button, and the data persists even after the page is closed.
-
-🔜 Next week: Learn form validation and improve user experience through better interaction and feedback.
+**📋 Simple Notes App with Local Storage**  
+A functional app that allows users to add notes including a title, description, ranking, and price. Notes are stored in `localStorage` and displayed as dynamic cards. Includes a button to clear all saved entries from the interface.
