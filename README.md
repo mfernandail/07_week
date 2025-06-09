@@ -1,15 +1,4 @@
 # Week N° 7 – Notes App with localStorage
-
-## Step by step, line by line — becoming a Full Stack Developer in one year.
-
-### This week I
-
-# Week N° 7
-
-## Step by step, line by line — becoming a Full Stack Developer in one year.
-
-# Week N° 7
-
 ## Step by step, line by line — becoming a Full Stack Developer in one year.
 
 ✅ **HTML**  
